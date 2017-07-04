@@ -1,0 +1,6 @@
+D:\projectsvisualstudio\LabPW8-9\LabPW8-9\bin\Debug\LabPW8-9.exe.config
+D:\projectsvisualstudio\LabPW8-9\LabPW8-9\bin\Debug\LabPW8-9.exe
+D:\projectsvisualstudio\LabPW8-9\LabPW8-9\bin\Debug\LabPW8-9.pdb
+D:\projectsvisualstudio\LabPW8-9\LabPW8-9\obj\Debug\LabPW8-9.csprojResolveAssemblyReference.cache
+D:\projectsvisualstudio\LabPW8-9\LabPW8-9\obj\Debug\LabPW8-9.exe
+D:\projectsvisualstudio\LabPW8-9\LabPW8-9\obj\Debug\LabPW8-9.pdb

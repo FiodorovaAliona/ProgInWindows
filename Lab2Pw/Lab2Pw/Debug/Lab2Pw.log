@@ -1,0 +1,7 @@
+﻿  Lab2Pw.cpp
+d:\projectsvisualstudio\lab2pw\lab2pw\lab2pw.cpp(130): warning C4101: hfont: неиспользованная локальная переменная
+d:\projectsvisualstudio\lab2pw\lab2pw\lab2pw.cpp(125): warning C4101: wmEvent: неиспользованная локальная переменная
+d:\projectsvisualstudio\lab2pw\lab2pw\lab2pw.cpp(132): warning C4101: pt: неиспользованная локальная переменная
+d:\projectsvisualstudio\lab2pw\lab2pw\lab2pw.cpp(129): warning C4101: MyPen: неиспользованная локальная переменная
+d:\projectsvisualstudio\lab2pw\lab2pw\lab2pw.cpp(125): warning C4101: wmId: неиспользованная локальная переменная
+  Lab2Pw.vcxproj -> D:\projectsvisualstudio\Lab2Pw\Debug\Lab2Pw.exe

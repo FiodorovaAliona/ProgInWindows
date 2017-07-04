@@ -1,0 +1,9 @@
+D:\projectsvisualstudio\LabPW8-9(b)\LabPW8-9(b)\bin\Debug\LabPW8-9(b).exe.config
+D:\projectsvisualstudio\LabPW8-9(b)\LabPW8-9(b)\bin\Debug\LabPW8-9(b).exe
+D:\projectsvisualstudio\LabPW8-9(b)\LabPW8-9(b)\bin\Debug\LabPW8-9(b).pdb
+D:\projectsvisualstudio\LabPW8-9(b)\LabPW8-9(b)\obj\Debug\LabPW8-9(b).csprojResolveAssemblyReference.cache
+D:\projectsvisualstudio\LabPW8-9(b)\LabPW8-9(b)\obj\Debug\LabPW8_9_b_.Form1.resources
+D:\projectsvisualstudio\LabPW8-9(b)\LabPW8-9(b)\obj\Debug\LabPW8_9_b_.Properties.Resources.resources
+D:\projectsvisualstudio\LabPW8-9(b)\LabPW8-9(b)\obj\Debug\LabPW8-9(b).csproj.GenerateResource.Cache
+D:\projectsvisualstudio\LabPW8-9(b)\LabPW8-9(b)\obj\Debug\LabPW8-9(b).exe
+D:\projectsvisualstudio\LabPW8-9(b)\LabPW8-9(b)\obj\Debug\LabPW8-9(b).pdb
